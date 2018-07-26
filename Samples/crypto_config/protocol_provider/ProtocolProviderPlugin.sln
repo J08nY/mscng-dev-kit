@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProtocolProviderPlugin", "ProtocolProviderPlugin\ProtocolProviderPlugin.vcproj", "{F2927494-6804-44D3-BD15-2A1AF7E9839E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "config", "config\config.vcproj", "{C0883A51-7E73-4501-AB7A-FBD1D8D0A670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2927494-6804-44D3-BD15-2A1AF7E9839E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F2927494-6804-44D3-BD15-2A1AF7E9839E}.Debug|Win32.Build.0 = Debug|Win32
+		{F2927494-6804-44D3-BD15-2A1AF7E9839E}.Release|Win32.ActiveCfg = Release|Win32
+		{F2927494-6804-44D3-BD15-2A1AF7E9839E}.Release|Win32.Build.0 = Release|Win32
+		{C0883A51-7E73-4501-AB7A-FBD1D8D0A670}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C0883A51-7E73-4501-AB7A-FBD1D8D0A670}.Debug|Win32.Build.0 = Debug|Win32
+		{C0883A51-7E73-4501-AB7A-FBD1D8D0A670}.Release|Win32.ActiveCfg = Release|Win32
+		{C0883A51-7E73-4501-AB7A-FBD1D8D0A670}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
