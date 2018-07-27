@@ -1,0 +1,12 @@
+TARGETNAME= calldriver
+TARGETTYPE= PROGRAM
+
+INCLUDES=   ..\inc
+
+SOURCES=    calldriver.c \
+	        install.c
+
+UMTYPE=     console
+UMBASE=     0x04000000
+USE_MSVCRT= 1
+	

@@ -1,6 +1,0 @@
-LIBRARY	"hashprov"
-
-
-EXPORTS
-
-	GetHashInterface = GetHashInterface

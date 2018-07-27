@@ -1,7 +1,0 @@
-TARGETNAME=cngclient
-TARGETTYPE=DRIVER
-
-INCLUDES=..\inc
-SOURCES=cngclient.c cngclient.rc
-TARGETLIBS=$(DDK_LIB_PATH)\ksecdd.lib
-

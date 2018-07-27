@@ -1,0 +1,23 @@
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+Installing a new hash algorithm
+
+With the changes in the cryptography API in Microsoft Windows Vista, it is possible for users to plug in their own algorithms in the cryptography API framework.
+This SDK includes samples which show how to install a new hash algorithm.
+
+To plug in a new hash algorithm, the users need to do the following:
+
+1. Create a DLL for the new hash provider and register it. 
+   For this step, please refer to the hash provider sample.
+2. Register the object identifiers for the new hash algorithms
+   For this step, please refer to the register OIDs sample. 
+3. Use the new hash algorithm for a crypto functionality such as signing a certificate.
+   For this step, please refer to the Plugging new hash algorithms sample.
+
+Each of these 3 steps are in separate samples. 
+
+Please refer to the README files of each of the individual samples to learn more.
+
+
+
+

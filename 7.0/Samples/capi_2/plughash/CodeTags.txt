@@ -1,0 +1,12 @@
+
+#
+# auto-generated from source depot and compcentral
+#
+
+FILE *
+$TAG ENGR
+$Module:  security_cryptoapi_ncrypt
+$Owner:   artbaker
+$Keywords:  sample
+$ENDTAG
+
